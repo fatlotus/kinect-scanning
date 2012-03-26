@@ -1,8 +1,8 @@
-=== Kinect Scene Reconstruction
+### Kinect Scene Reconstruction
 
 (proper documentation forthcoming)
 
-==== License
+#### License
 
 A standard MIT licence:
 
